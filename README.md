@@ -1,2 +1,2 @@
 # fin_eng_words_prediction_project
-ml Multinomial Naive Bayes Classification project. This exercise was completed as part of a Machine Learning course of mooc.fi platform. url: https://courses.mooc.fi/org/uh-cs/courses/data-analysis-with-python-2024-2025
+ml Multinomial Naive Bayes Classification project. To test the program you need to pass string list with words("['cat', 'handsome', 'hello', 'some finnish word']" like sys.argv params. 1 represents eng word, 0 represents fin word. This exercise was completed as part of a Machine Learning course of mooc.fi platform. url: https://courses.mooc.fi/org/uh-cs/courses/data-analysis-with-python-2024-2025
